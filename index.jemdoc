@@ -1,0 +1,65 @@
+= Peng Wang
+
+~~~
+{}{img_left}{tianlai.jpg}{Lai Tian Photo}{150px}{}{}
+*Peng Wang* \n # {{<img src="tianlai_name.jpg" alt="Lai Tian Chinese Name" # style="vertical-align:middle" />}} \n
+Postdoc Research Fellow \n 
+Department of Electrical Engineering and Computer Science \n
+University of Michigan, Ann Arbor \n 
+\n
+*Office*: Room 3218, EECS Building, 1301 Beal Avenue, Ann Arbor, MI 48109-2122 \n
+# *Advisor*: [https://web.eecs.umich.edu/~girasole/ Laura Balzano]\n
+# \n
+*Email*: pengwa \[æ-t\] umich.edu \n
+[https://scholar.google.com/citations?user=baF3HKUAAAAJ&hl=zh-TW Google Scholar]
+~~~
+
+== Research Interests 
+My research interests mainly lie in optimization theory and methods for non-convex optimization and their applications in machine learning, signal processing, and data sciences. 
+Recently, I am especially interested in theoretical understanding of simple and scalable methods for structured non-convex problems, such as subspace recovery, community detection, and constriained PCA. 
+
+* Feel free to email me if you are interested in my research. Remote collaboration is also welcome!* 
+
+== Work Experience
+- Postdoc Research Fellow ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~      /Dec 2021 -- Present/\n
+-- Department of Electrical Engineering and Computer Science \n
+*University of Michigan*, Ann Arbor \n
+-- Advisor: [https://web.eecs.umich.edu/~girasole/ Laura Balzano]\n
+- Research Associate   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    /Oct 2020 -- Nov 2021/ \n
+-- Department of Systems Engineering and Engineering Management \n
+*The Chinese University of Hong Kong*, Hong Kong \n
+-- Advisor: [https://www1.se.cuhk.edu.hk/~manchoso/ Anthony Man-Cho So]
+
+== Education 
+- Ph.D. in Systems Engineering and Engineering Management ~~~~~~~~~~ /2016 -- 2020/\n
+# -- Department of Systems Engineering and Engineering Management\n
+-- The Chinese University of Hong Kong, Hong Kong
+-- Advisors: [https://www1.se.cuhk.edu.hk/~manchoso/ Anthony Man-Cho So] & [https://www.math.ucdavis.edu/~sqma/ Shiqian Ma] 
+-- Thesis: Fast First-Order Methods for Structured Non-Convex Non-Smooth Problems with Provable Guarantees \[[https://www.proquest.com/openview/efedba6fef3198199f507741c3cfb1bf/1?pq-origsite=gscholar&cbl=2026366&diss=y Thesis]\]
+- Bachelor in Engineering Management ~~~~~~~~~~ /2012 -- 2016/ \n
+# -- School of Economics and Management \n 
+-- Beijing University of Posts and Telecommunications, Beijing 
+
+#== News 
+#- \[Jul 12, 2021\] One paper accepted by ICML 2021 BFOM Workshop.
+#- \[Sep 26, 2020\] One paper accepted by NeurIPS 2020.
+#- \[Apr 20, 2020\] One paper accepted by IJCAI 2020.
+#- \[Apr 29, 2019\] One paper accepted by IEEE TKDE.
+#- \[Apr 15, 2019\] Attend AISTATS 2019 in Japan.
+#- \[Dec 23, 2018\] One paper accepted by AISTATS 2019.
+#- \[Aug 19, 2018\] Attend KDD 2018 in London and give an oral #presentation.
+#- \[May 07, 2018\] One paper accepted by KDD 2018 (Oral, 10.9%).
+
+== Journal Papers
+- *Peng Wang*, Zirui Zhou, Anthony Man-Cho So. Non-Convex Exact Community Recovery in Stochastic Block Model. Accepted for publication in */Mathematical Programming, Series A/*, 2021. \[[https://arxiv.org/pdf/2006.15843v4.pdf paper]\] 
+- *Peng Wang*, Huikang Liu, Anthony Man-Cho So. Linear Convergence of Proximal Alternating Minimization Method with Extrapolation for L1-PCA. Submitted to */SIAM Journal on Optimization/*, 2021. \[[https://arxiv.org/pdf/2107.07107.pdf paper]\] 
+
+== Conference Papers
+- Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Exact Community Recovery over Signed Graphs. Accepted by */AISTATS 2022/*.
+- *Peng Wang*, Huikang Liu, Zirui Zhou, Anthony Man-Cho So. Optimal Non-Convex Exact Recovery in Stochastic Block Model via Projected Power Method. */ICML 2021/*. \[[https://arxiv.org/pdf/2106.05644.pdf paper]\]
+- *Peng Wang*\*, Zirui Zhou\*, Anthony Man-Cho So. A Nearly-Linear Time Algorithm for Exact Community Recovery in Stochastic Block Model. */ICML 2020/*. \[[http://proceedings.mlr.press/v119/wang20ac/wang20ac.pdf paper]\]
+- *Peng Wang*, Huikang Liu, Anthony Man-Cho So. Globally Convergent Accelerated Proximal Alternating Maximization Method for L1-Principal Component Analysis. */ICASSP 2019/* (IEEE SPS Student Travel Award). \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682499 paper]\]
+- Huikang Liu, *Peng Wang*, Anthony Man-Cho So. Fast First-Order Methods for the Massive Robust Multicast Beamforming Problem with Interference Temperature Constraints. */ICASSP 2019/*. \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683524 paper]\]
+
+== Professional Service
+- Reviewer: ICML 2021; AISTATS 2022; SIOPT (3 times)
