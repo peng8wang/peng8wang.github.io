@@ -55,11 +55,11 @@ Recently, I am especially interested in theoretical understanding of simple and 
 - *Peng Wang*, Huikang Liu, Anthony Man-Cho So. Linear Convergence of Proximal Alternating Minimization Method with Extrapolation for L1-PCA. Submitted to */SIAM Journal on Optimization/*, 2021. \[[https://arxiv.org/pdf/2107.07107.pdf paper]\] 
 
 == Conference Papers
-- Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Exact Community Recovery over Signed Graphs. Accepted by */AISTATS 2022/*.
+- Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Exact Community Recovery over Signed Graphs. Accepted by */AISTATS 2022/*. \[[https://arxiv.org/pdf/2202.12255.pdf paper]\]
 - *Peng Wang*, Huikang Liu, Zirui Zhou, Anthony Man-Cho So. Optimal Non-Convex Exact Recovery in Stochastic Block Model via Projected Power Method. */ICML 2021/*. \[[https://arxiv.org/pdf/2106.05644.pdf paper]\]
 - *Peng Wang*\*, Zirui Zhou\*, Anthony Man-Cho So. A Nearly-Linear Time Algorithm for Exact Community Recovery in Stochastic Block Model. */ICML 2020/*. \[[http://proceedings.mlr.press/v119/wang20ac/wang20ac.pdf paper]\]
 - *Peng Wang*, Huikang Liu, Anthony Man-Cho So. Globally Convergent Accelerated Proximal Alternating Maximization Method for L1-Principal Component Analysis. */ICASSP 2019/* (IEEE SPS Student Travel Award). \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682499 paper]\]
 - Huikang Liu, *Peng Wang*, Anthony Man-Cho So. Fast First-Order Methods for the Massive Robust Multicast Beamforming Problem with Interference Temperature Constraints. */ICASSP 2019/*. \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683524 paper]\]
 
 == Professional Service
-- Reviewer: ICML 2021; AISTATS 2022; SIOPT (3 times)
+- Reviewer:  SIOPT (3 times); IEEE Transactions on Information Theory (1 times); ICML 2021, 2022; AISTATS 2022;
