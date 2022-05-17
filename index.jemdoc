@@ -56,7 +56,7 @@ Recently, I am especially interested in theoretical understanding of simple and 
 - Taoli Zheng, *Peng Wang*, Anthony Man-Cho So. Proximal Alternating Linearized Minimization Method with Non-Linear Extrapolation for Rotationally Invariant L1-Norm Principal Component Analysis. In preparation for */IEEE Transactions on Signal Processing/*, 2022.
 
 == Conference Papers
-- *Peng Wang*, Huikang Liu, Anthony Man-Cho So, Luara Balzano. Convergence and Recovery Guarantees of the K-Subspaces Method for Subspace Clustering. Accepted by */ICML 2022/*. 
+- *Peng Wang*, Huikang Liu, Anthony Man-Cho So, Laura Balzano. Convergence and Recovery Guarantees of the K-Subspaces Method for Subspace Clustering. Accepted by */ICML 2022/*. 
 - Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Exact Community Recovery over Signed Graphs. */AISTATS 2022/*. \[[https://arxiv.org/pdf/2202.12255.pdf paper]\]
 - *Peng Wang*, Huikang Liu, Zirui Zhou, Anthony Man-Cho So. Optimal Non-Convex Exact Recovery in Stochastic Block Model via Projected Power Method. */ICML 2021/*. \[[https://arxiv.org/pdf/2106.05644.pdf paper]\]
 - *Peng Wang*\*, Zirui Zhou\*, Anthony Man-Cho So. A Nearly-Linear Time Algorithm for Exact Community Recovery in Stochastic Block Model. */ICML 2020/*. \[[http://proceedings.mlr.press/v119/wang20ac/wang20ac.pdf paper]\]
