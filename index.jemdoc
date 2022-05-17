@@ -10,13 +10,12 @@ University of Michigan, Ann Arbor \n
 *Office*: Room 3218, EECS Building, 1301 Beal Avenue, Ann Arbor, MI 48109-2122 \n
 # *Advisor*: [https://web.eecs.umich.edu/~girasole/ Laura Balzano]\n
 # \n
-*Email*: pengwa \[æ-t\] umich.edu \n
+*Email*: pengwa \[æ-t\] umich.edu, peng8wang \[æ-t\] gmail.com \n
 [https://scholar.google.com/citations?user=baF3HKUAAAAJ&hl=zh-TW Google Scholar]
 ~~~
 
 == Research Interests 
-My research interests mainly lie in optimization theory and methods for non-convex optimization and their applications in machine learning, signal processing, and data sciences. 
-Recently, I am especially interested in theoretical understanding of simple and scalable methods for structured non-convex problems, such as subspace recovery, community detection, and constriained PCA. 
+My research interests mainly lie in optimization theory and methods for non-convex optimization and their applications in machine learning, signal processing, and data sciences. Recently, I am especially interested in theoretical understanding of simple and scalable methods for structured non-convex problems, such as subspace recovery, community detection, constriained PCA, and neural collapse. 
 
 * Feel free to email me if you are interested in my research. Remote collaboration is also welcome!* 
 
@@ -51,7 +50,7 @@ Recently, I am especially interested in theoretical understanding of simple and 
 #- \[May 07, 2018\] One paper accepted by KDD 2018 (Oral, 10.9%).
 
 == Journal Papers
-- *Peng Wang*, Zirui Zhou, Anthony Man-Cho So. Non-Convex Exact Community Recovery in Stochastic Block Model. Accepted for publication in */Mathematical Programming, Series A/*, 2021. \[[https://arxiv.org/pdf/2006.15843v4.pdf paper]\] 
+- *Peng Wang*, Zirui Zhou, Anthony Man-Cho So. Non-Convex Exact Community Recovery in Stochastic Block Model. */Mathematical Programming, Series A (2021):/* 1-37. \[[https://arxiv.org/pdf/2006.15843v4.pdf paper]\] 
 - *Peng Wang*, Huikang Liu, Anthony Man-Cho So. Linear Convergence of Proximal Alternating Minimization Method with Extrapolation for L1-Norm Principal Component Analysis. Under revision in */SIAM Journal on Optimization/*, 2022. \[[https://arxiv.org/pdf/2107.07107.pdf paper]\] 
 - Taoli Zheng, *Peng Wang*, Anthony Man-Cho So. Proximal Alternating Linearized Minimization Method with Non-Linear Extrapolation for Rotationally Invariant L1-Norm Principal Component Analysis. In preparation for */IEEE Transactions on Signal Processing/*, 2022.
 
