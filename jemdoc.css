@@ -1,47 +1,16 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-    border: none;
-    border-collapse: separate;
-    background: white;
+	border: none;
+	border-collapse: separate;
+	background: white;
 }
 
 body {
 	background: white;
-	font-family: Optima, sans-serif;
+	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
-}
-
-html {
-  background-color: #eeeeee; 
-}
-
-# body { 
-  background-color: #ffffff; 
-  text-align:left; /* for IE */
-  margin-top: 35px; 
-  margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left:  50px;
-  padding-right: 50px;
-  padding-top: 10px;
-  padding-bottom: 30px;
-  max-width: 960px;
-}
-
-
-body {
-    background: white;
-    font-family: Georgia, serif;
-    margin-top: 30px; 
-    margin-bottom: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left:  5px;
-    padding-right: 5px;
-    margin: 0;
 }
 
 #layout-menu {
@@ -49,27 +18,27 @@ body {
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
-	padding-right: 20px;
+	padding-right: 8px;
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
-    vertical-align: top;
+	vertical-align: top;
 }
 
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-    border: none;
-    background: white;
-    text-align: left;
-    vertical-align: top;
+	border: none;
+	background: white;
+	text-align: left;
+	vertical-align: top;
 }
 
 #layout-menu a {
@@ -78,7 +47,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+	background: #ffffdd;
 }
 
 pre, tt {
@@ -95,15 +64,15 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
-# layout-menu a.current:link, #layout-menu a.current:visited {
+#layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
-# layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
+#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
 	color: #527bbd;
 	text-decoration: none;
 }
-# layout-menu a:hover {
+#layout-menu a:hover {
 	text-decoration: none;
 }
 
@@ -167,7 +136,7 @@ h2 {
 }
 
 h2 + h3 {
-    padding-top: 0.2em;
+	padding-top: 0.2em;
 }
 
 h3 {
@@ -176,7 +145,6 @@ h3 {
 }
 
 p {
-    #font-size: 120%;
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
 	padding: 0;
@@ -329,7 +297,10 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-	#layout-menu { display: none; }
+	#layout-menu {
+		display: none;
+	}
+
 }
 
 #fwtitle {
@@ -368,33 +339,32 @@ img.eqwl {
 }
 
 table {
-    border: 2px solid black;
-    border-collapse: collapse;
+	border: 2px solid black;
+	border-collapse: collapse;
 }
 
 td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: center;
-    border: 1px solid gray;
+	padding: 2px;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	text-align: center;
+	border: 1px solid gray;
 }
 
 table + table {
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 tr.heading {
-    font-weight: bold;
-    border-bottom: 2px solid black;
+	font-weight: bold;
+	border-bottom: 2px solid black;
 }
 
 img {
-    border: none;
-    border-radius: 5px;
+	border: none;
 }
 
 table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
+	border: none;
+	text-align: left;
 }
