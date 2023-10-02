@@ -40,8 +40,8 @@ My research interests mainly lie in non-convex optimization for low-complexity r
 
 == Conference Papers (``*'' denotes equal contribution.)
 - Jinxin Wang, Yuen-Man Pun, Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Projected Tensor Power Method for Hypergraph Community Recovery. */ICML 2023/*.  \[[https://openreview.net/pdf?id=CcDKqUR546 paper]\]
-- *Peng Wang*\*, Huikang Liu\*, Can Yaras\*, Laura Balzano, Qing Qu. Linear Convergence Analysis of Neural Collapse with Unconstrained Features. Accepted by NeurIPS Workshop on Optimization for Machine Learning, */OPT 2022/*.
-- Can Yaras\*, *Peng Wang*\*, Zhihui Zhu, Laura Balzano, Qing Qu. Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold. Accepted by */NeurIPS 2022/*. \[[https://arxiv.org/pdf/2209.09211.pdf paper]\]
+- *Peng Wang*\*, Huikang Liu\*, Can Yaras\*, Laura Balzano, Qing Qu. Linear Convergence Analysis of Neural Collapse with Unconstrained Features. NeurIPS Workshop on Optimization for Machine Learning, */OPT 2022/*. \[[https://openreview.net/pdf?id=WC9im-M_y5 paper]\]
+- Can Yaras\*, *Peng Wang*\*, Zhihui Zhu, Laura Balzano, Qing Qu. Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold. */NeurIPS 2022/*. \[[https://arxiv.org/pdf/2209.09211.pdf paper]\]
 - *Peng Wang*, Huikang Liu, Anthony Man-Cho So, Laura Balzano. Convergence and Recovery Guarantees of the K-Subspaces Method for Subspace Clustering. */ICML 2022/*. \[[https://arxiv.org/pdf/2206.05553.pdf paper]\] 
 - Xiaolu Wang, *Peng Wang*, Anthony Man-Cho So. Exact Community Recovery over Signed Graphs. */AISTATS 2022/*. \[[https://arxiv.org/pdf/2202.12255.pdf paper]\]
 - *Peng Wang*, Huikang Liu, Zirui Zhou, Anthony Man-Cho So. Optimal Non-Convex Exact Recovery in Stochastic Block Model via Projected Power Method. */ICML 2021/*. \[[https://arxiv.org/pdf/2106.05644.pdf paper]\]
