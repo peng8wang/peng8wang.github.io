@@ -31,6 +31,7 @@ My research interests mainly lie in non-convex optimization for low-complexity r
 == Preprint Papers
 - Can Yaras\*, *Peng Wang*\*, Wei Hu, Zhihui Zhu, Laura Balzano, Qing Qu. The Law of Parsimony in Gradient Descent for Learning Deep Linear Networks, 2023. In submission. \[[https://arxiv.org/pdf/2306.01154.pdf paper]\]
 - *Peng Wang*, Rujun Jiang, Qingyuan Kong, Laura Balzano. Proximal DC Algorithm for Sample Average Approximation of Chance Constrained Programming: Convergence and Numerical Results, 2023. Submitted to */SIAM Journal on Optimization/*. \[[https://arxiv.org/pdf/2301.00423.pdf paper]\]
+- Jiachen Jiang, Jinxin Zhou, *Peng Wang*, Qing Qu, Dustin Mixon, Chong You, Zhihui Zhu. Generalized Neural Collapse for a Large Number of Classes. Submitted to */ICLR 2023/*. \[[https://arxiv.org/pdf/2310.05351.pdf paper]\]
 - Taoli Zheng, *Peng Wang*, Anthony Man-Cho So. A Linearly Convergent Algorithm for Rotationally Invariant L1-Norm Principal Component Analysis, 2022. \[[https://arxiv.org/pdf/2210.05066.pdf paper]\]
 
 == Journal Papers
